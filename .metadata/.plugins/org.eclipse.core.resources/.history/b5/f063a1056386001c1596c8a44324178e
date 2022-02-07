@@ -1,0 +1,21 @@
+package com.allProgram;
+
+public class SwapNumbers {
+
+	public static void main(String[] args) {
+		
+		
+		int a = 10;
+		int b = 20;
+		
+		System.out.println("Swaping numbers before swap   " +a+ " "   + b   );
+		
+		a = a + b;
+		b = a - b;
+		a = a - b;
+		
+		System.out.println("Swaping numbers after swap" + a + b );
+		
+		
+	}
+}

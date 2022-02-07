@@ -1,0 +1,17 @@
+package com.TestNG_Features;
+
+import org.junit.Assert;
+
+public class HardAssert {
+
+	public void HardAssert_Concept() {
+		
+		String Expected = "Passed";
+		String Actual   = "Passed";
+		
+		Assert.assertEquals(Actual, Expected);
+		
+		System.out.println("Validation");
+		
+	}
+}

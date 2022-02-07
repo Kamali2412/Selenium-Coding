@@ -1,0 +1,12 @@
+package com.TestNG_Features;
+
+public class Soft_Assert1 {
+	
+	public void Soft_Assert_Concept() {
+		
+		
+		
+		
+	}
+
+}
